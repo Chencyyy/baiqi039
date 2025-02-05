@@ -36,27 +36,23 @@ export default defineConfig({
     skipToContentLabel: '跳转到内容',
 
     nav: [
-      { text: 'Example', link: '/example' },
-
-      // {
-      //   text: 'Dropdown Menu',
-      //   items: [
-      //     { text: 'Item A', link: '/item-1' },
-      //     { text: 'Item B', link: '/item-2' },
-      //     { text: 'Item C', link: '/item-3' },
-      //   ],
-      // },
-
-      // ...
+      { text: '设定',
+        items: [
+          { text: '脑洞', link: '/setting/brainstorm'},
+          { text: '人物', link: '/setting/character'},
+          { text: 'oc&世界观背景', link: '/setting/background'},
+        ]
+      },
     ],
 
     sidebar: [
-      {
-        // text: 'Guide',
+      { text: '设定',
+        collapsed: true,
         items: [
-          { text: 'Example', link: '/example' },
-          // ...
-        ],
+          { text: '脑洞', link: '/setting/brainstorm'},
+          { text: '人物', link: '/setting/character'},
+          { text: 'oc&世界观背景', link: '/setting/background'},
+        ]
       },
     ],
   },
