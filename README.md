@@ -1,3 +1,3 @@
 # baiqi039
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Chencyyy/baiqi039)
+https://baiqi039.fandom.com/zh/wiki/%E7%99%BD%E6%BC%86_Wiki
