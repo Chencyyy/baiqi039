@@ -2,9 +2,25 @@
 layout: home
 
 hero:
-  name: 
+  name: 首页
   text: 
   tagline: 
+  actions:
+  - theme: brand
+    text: LOFTER
+    link: https://baiqi039.lofter.com/
+  - theme: alt
+    text: TAGTREE
+    link: 
+  - theme: brand
+    text: AO3
+    link: https://archiveofourown.org/tags/%E7%99%BD%E6%BC%86_
+  - theme: alt
+    text: INNER
+    link: 
+  - theme: brand
+    text: 爱发电
+    link: https://afdian.net/a/baiqi039
 ---
 
 # 设定
@@ -19,28 +35,28 @@ hero:
 
 # 产出-活动区
   - 是否能再与你相识 #未完结 #LOFTER某活动
-纵雨止息之时 #短打 #百家酿 #第一酿
-半杯余温 #短打 #月梗
-醉心迷人毒如蜜 #短打 #月梗
+  - 纵雨止息之时 #短打 #百家酿 #第一酿
+  - 半杯余温 #短打 #月梗
+  - 醉心迷人毒如蜜 #短打 #月梗
 
 # 产出-同人区
-狐狸道士 #短打
-与你七年后的相遇 #长篇 #未完结 #9篇+1番外
-旅行中捡到小骑士 #长篇 #未完结 #7篇
-名字还没想好的咒悟 #长篇 #未完结 #16篇
-整治河流卫生，共创美好未来 #长篇 #未完结 #3篇
-法治社会人人有责，积极配合请勿摆烂 #长篇 #已完结 #8篇
+  - 狐狸道士 #短打
+  - 与你七年后的相遇 #长篇 #未完结 #9篇+1番外
+  - 旅行中捡到小骑士 #长篇 #未完结 #7篇
+  - 名字还没想好的咒悟 #长篇 #未完结 #16篇
+  - 整治河流卫生，共创美好未来 #长篇 #未完结 #3篇
+  - 法治社会人人有责，积极配合请勿摆烂 #长篇 #已完结 #8篇
 
 # 产出-借梗区
-via@戴着珍珠项链的猫 #短打 #已完结 #被吞文
-cr@顾蓝 #短打 #已完结
-尸理美论造诣像 #长篇 #已完结 #7篇
-via@poplick61
-via@Suit-Turbulent
+  - ia@戴着珍珠项链的猫 #短打 #已完结 #被吞文
+  - cr@顾蓝 #短打 #已完结
+  - 尸理美论造诣像 #长篇 #已完结 #7篇
+  - via@poplick61
+  - via@Suit-Turbulent
 
 # 借鉴-灵感区
-灵感提供
-随机截屏
+  - 灵感提供
+  - 随机截屏
 
 # 梦
-合集 #2篇
+  - 合集 #2篇
