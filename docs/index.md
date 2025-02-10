@@ -5,11 +5,14 @@ hero:
   name: 
   text: 
   tagline: 
-  actions:
-    - theme: brand
-      text: 
-      link: 
-    - theme: alt
-      text: 
-      link: 
 ---
+
+# 设定
+  - 脑洞
+  - 人物
+  - oc&世界观背景
+
+# 产出-原创区
+  - 一些磕点+脑洞 #大合集 #8本篇+2番外
+  - 毫无关联的短篇 #短打 #3篇
+  - 柏&柘if线 #长篇 #未完结 #7本篇+5番外
