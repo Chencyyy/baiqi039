@@ -24,7 +24,7 @@ hero:
 ---
 
 # 设定
-  - [脑洞]()
+  - [脑洞](./setting/brainstorm.md)
   - 人物
   - oc&世界观背景
 
