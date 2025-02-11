@@ -5,7 +5,13 @@ export default defineConfig({
   base: '/baiqi039/',
   title: 'Baiqi039',
   description: '',
-  
+
+  vite: {
+    build: {
+      assetsInclude: ['**/*.PNG']
+    }
+  },
+
   themeConfig: {
 
     docFooter: {
