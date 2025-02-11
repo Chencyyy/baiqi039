@@ -6,12 +6,6 @@ export default defineConfig({
   title: 'Baiqi039',
   description: '',
 
-  vite: {
-    build: {
-      assetsInclude: ['**/*.PNG']
-    }
-  },
-
   themeConfig: {
 
     docFooter: {
