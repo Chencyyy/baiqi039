@@ -7,6 +7,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
+    "vite-plugin-imagemin": "^0.6.1",
     "vitepress": "latest"
   }
 }

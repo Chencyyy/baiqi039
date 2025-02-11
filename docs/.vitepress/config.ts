@@ -6,6 +6,10 @@ export default defineConfig({
   title: 'Baiqi039',
   description: '',
 
+  export default: {
+    assetsInclude: ['**/*.PNG'],
+  },
+  
   themeConfig: {
 
     docFooter: {
