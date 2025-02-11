@@ -23,6 +23,11 @@ hero:
     link: https://afdian.net/a/baiqi039
 ---
 
+```
+> [!IMPORTANT] 创作日期
+> 
+```
+
 # 设定
   - [脑洞](./setting/brainstorm.md)
   - [人物](./setting/character.md)
@@ -31,7 +36,7 @@ hero:
 # 产出-原创区
   - 一些磕点+脑洞 #大合集 #8本篇+2番外
   - 毫无关联的短篇 #短打 #3篇
-  - 柏&柘if线 #长篇 #未完结 #7本篇+5番外
+  - [柏&柘if线](./original/bo&tuo_if/main.md) #长篇 #未完结 #7本篇+5番外
 
 # 产出-活动区
   - 是否能再与你相识 #未完结 #LOFTER某活动
@@ -40,8 +45,8 @@ hero:
   - 醉心迷人毒如蜜 #短打 #月梗
 
 # 产出-同人区
-  - [狐狸道士](./genshin/fox/main.md) #短打
-  - [与你七年后的相遇](./jujutsu/7year/main.md) #长篇 #未完结 #9篇+1番外
+  - [狐狸道士](./fanfiction/genshin/fox/main.md) #短打
+  - [与你七年后的相遇](./fanfiction/jujutsu/7year/main.md) #长篇 #未完结 #9篇+1番外
   - 旅行中捡到小骑士 #长篇 #未完结 #7篇
   - 名字还没想好的咒悟 #长篇 #未完结 #16篇
   - 整治河流卫生，共创美好未来 #长篇 #未完结 #3篇
