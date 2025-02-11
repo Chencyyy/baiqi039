@@ -8,6 +8,7 @@
   },
   "devDependencies": {
     "vite-plugin-imagemin": "^0.6.1",
+    "vite-plugin-static-copy": "^2.2.0",
     "vitepress": "latest"
   }
 }
