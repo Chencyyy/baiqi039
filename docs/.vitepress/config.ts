@@ -113,6 +113,7 @@ export default defineConfig({
                   { text: '13', link: '/fanfiction/jujutsu/7year/main#13' },
                   { text: '14', link: '/fanfiction/jujutsu/7year/main#14' },
                   { text: '15', link: '/fanfiction/jujutsu/7year/main#15' },
+                  { text: '16', link: '/fanfiction/jujutsu/7year/main#16' },
                 ]
               },
             ]
