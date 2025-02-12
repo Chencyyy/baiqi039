@@ -81,7 +81,23 @@ export default defineConfig({
       { text: '原创',
         collapsed: true,
         items: [
-          { text: '柏&柘if线(章节以后再搞)', link: '/original/bo&tuo_if/main'},
+          { text: '柏&柘if线',
+            collapsed: true,
+            items: [
+              { text: '1', link: '/original/bo&tuo_if/main#1' },
+              { text: '2', link: '/original/bo&tuo_if/main#2' },
+              { text: '3', link: '/original/bo&tuo_if/main#3' },
+              { text: '4', link: '/original/bo&tuo_if/main#4' },
+              { text: '5', link: '/original/bo&tuo_if/main#5' },
+              { text: '6', link: '/original/bo&tuo_if/main#6' },
+              { text: '7', link: '/original/bo&tuo_if/main#7' },
+              { text: '8', link: '/original/bo&tuo_if/main#8 - be线-分支I' },
+              { text: '9 - be线-分支I-构思', link: '/original/bo&tuo_if/main#9' },
+              { text: '10 - be线-分支II', link: '/original/bo&tuo_if/main#10' },
+              { text: '11 - be线-分支II-构思', link: '/original/bo&tuo_if/main#11' },
+              { text: '12 - 番外I（未完成）', link: '/original/bo&tuo_if/main#12' },
+            ]
+          },
         ]
       },
       { text: '同人',
