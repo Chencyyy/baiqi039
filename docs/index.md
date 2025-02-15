@@ -54,7 +54,7 @@ hero:
 
 # 产出-同人区
   - [狐狸道士](./fanfiction/genshin/fox/main.md) #短打
-  - [与你七年后的相遇](./fanfiction/jujutsu/7year/main.md) #长篇 #未完结 #9篇+1番外
+  - [与你七年后的相遇](./fanfiction/jujutsu/7year/main.md) #长篇 #未完结 #18篇+1番外
   - 旅行中捡到小骑士 #长篇 #未完结 #7篇
   - 名字还没想好的咒悟 #长篇 #未完结 #16篇
   - 整治河流卫生，共创美好未来 #长篇 #未完结 #3篇
