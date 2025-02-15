@@ -28,6 +28,14 @@ hero:
 > 
 ```
 
+# 没干的
+- 侧边目录
+  - 原创/
+    - 一些磕点+脑洞
+    - 毫无关联的短篇
+    - 活动/
+      - 是否能再与你相识
+
 # 设定
   - [脑洞](./setting/brainstorm.md)
   - [人物](./setting/character.md)
@@ -35,11 +43,11 @@ hero:
 
 # 产出-原创区
   - [一些磕点+脑洞](./original/brainstorm/main.md) #大合集 #8本篇+2番外
-  - 毫无关联的短篇 #短打 #3篇
+  - [毫无关联的短篇](./original/short/main.md) #短打 #3篇
   - [柏&柘if线](./original/bo&tuo_if/main.md) #长篇 #未完结 #7本篇+5番外
 
 # 产出-活动区
-  - 是否能再与你相识 #未完结 #LOFTER某活动
+  - [是否能再与你相识](./original/event/again/main.md) #未完结 #LOFTER某活动
   - 纵雨止息之时 #短打 #百家酿 #第一酿
   - 半杯余温 #短打 #月梗
   - 醉心迷人毒如蜜 #短打 #月梗
