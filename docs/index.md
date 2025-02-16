@@ -45,9 +45,12 @@ hero:
       - 法治社会人人有责，积极配合请勿摆烂
     - 咒术回战#
       - 与你七年后的相遇
-        - ao3：进度19
+        - ao3：进度25
         - fandom：重新上传
         - lofter：进度7
+
+- fandom
+  - 柏&柘if线
 
 # 设定
   - [脑洞](./setting/brainstorm.md)
