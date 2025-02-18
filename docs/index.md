@@ -49,6 +49,8 @@ hero:
         - ao3：进度25
         - fandom：重新上传
         - lofter：进度7
+        - 主页：章节数
+      - 
 
 - fandom修
   - 柏&柘if线
@@ -75,7 +77,8 @@ hero:
   - 原神
     - [狐狸道士](./fanfiction/genshin/fox/main.md) #短打
   - 咒术回战
-    - [与你七年后的相遇](./fanfiction/jujutsu/7year/main.md) #长篇 #未完结 #18篇+1番外
+    - [与你七年后的相遇](./fanfiction/jujutsu/7year/main.md) #长篇 #未完结 #篇+1番外
+    - 
     - 名字还没想好的咒悟 #长篇 #未完结 #16篇
   - 文豪野犬
     - 整治河流卫生，共创美好未来 #长篇 #未完结 #3篇
